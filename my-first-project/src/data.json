@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Terminar o computador Lycalopex",
+    "neatedTodoList": [
+      "Escrever linguagem de maquina",
+      "Criar o Vulpembly",
+      "compilador da linguagem de maquina em TS",
+      "Montar um PC que execute linguagem de maquina"
+    ]
+  },
+  {
+    "name": "Terminar o computador Alopex",
+    "neatedTodoList": [
+      "Escrever a linguagem VULPASIC",
+      "compilador de VULPASIC em TS",
+      "compilador de VULPASIC na linguagem de maquina",
+      "Montar um PC que execute VULPASIC"
+    ]
+  },
+  {
+    "name": "Terminar o computador Urocyon",
+    "neatedTodoList": [
+      "Escrever a linguagem Vulpol",
+      "compilador de Vulpol em TS",
+      "compilador de Vulpol na linguagem de maquina",
+      "Montar um PC que execute linguagem Vulpol e Vulpasic"
+    ]
+  },
+  {
+    "name": "Simulador de gravidade em C",
+    "neatedTodoList": [
+      "gravidade",
+      "se mover pela tela",
+      "observer objeto",
+      "Colisão",
+      "Editar e acrescentar objetos",
+      "Design procedural"
+    ]
+  },
+  {
+    "name": "Fazer o TCC",
+    "neatedTodoList": [
+      "Jogo baseado no GUI do minecraft",
+      "Flappy bird",
+      "VM",
+      "compiladores para Vulpembly, VULPASIC e Vulpol",
+      "Simulador de gravidade",
+      "Algum jogo multiplayer",
+      "Simulador de cidades"
+    ]
+  }
+]
